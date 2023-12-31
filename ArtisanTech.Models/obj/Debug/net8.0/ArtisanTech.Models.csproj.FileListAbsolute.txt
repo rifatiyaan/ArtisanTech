@@ -1,0 +1,12 @@
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\bin\Debug\net8.0\ArtisanTech.Models.deps.json
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\bin\Debug\net8.0\ArtisanTech.Models.dll
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\bin\Debug\net8.0\ArtisanTech.Models.pdb
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ArtisanTech.Models.csproj.AssemblyReference.cache
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ArtisanTech.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ArtisanTech.Models.AssemblyInfoInputs.cache
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ArtisanTech.Models.AssemblyInfo.cs
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ArtisanTech.Models.csproj.CoreCompileInputs.cache
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ArtisanTech.Models.dll
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\refint\ArtisanTech.Models.dll
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ArtisanTech.Models.pdb
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Models\obj\Debug\net8.0\ref\ArtisanTech.Models.dll

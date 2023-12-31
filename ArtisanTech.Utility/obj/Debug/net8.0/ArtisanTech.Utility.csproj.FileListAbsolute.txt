@@ -1,0 +1,11 @@
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\bin\Debug\net8.0\ArtisanTech.Utility.deps.json
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\bin\Debug\net8.0\ArtisanTech.Utility.dll
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\bin\Debug\net8.0\ArtisanTech.Utility.pdb
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\ArtisanTech.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\ArtisanTech.Utility.AssemblyInfoInputs.cache
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\ArtisanTech.Utility.AssemblyInfo.cs
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\ArtisanTech.Utility.csproj.CoreCompileInputs.cache
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\ArtisanTech.Utility.dll
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\refint\ArtisanTech.Utility.dll
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\ArtisanTech.Utility.pdb
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.Utility\obj\Debug\net8.0\ref\ArtisanTech.Utility.dll

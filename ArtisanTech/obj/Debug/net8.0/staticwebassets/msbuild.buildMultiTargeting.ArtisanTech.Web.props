@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ArtisanTech.Web.props" />
+</Project>

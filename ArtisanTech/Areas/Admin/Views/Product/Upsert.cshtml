@@ -1,0 +1,78 @@
+﻿@model ProductVM
+
+<form method="post" class="row" enctype="multipart/form-data">
+	<input asp-for="Product.Id" hidden />
+	<input asp-for="Product.ImageUrl" hidden />
+	<div class="row">
+		<div class="col-7">
+			<div class="border p-3 mt-4">
+				<div class="row">
+					<h2 class="text-primary">@(Model.Product.Id!=0?"Update":"Create") Product</h2>
+					<hr />
+				</div>
+				<div asp-validation-summary="All"></div>
+				<div class="mb-3 row p-1">
+					<label asp-for="Product.Name" class="pb-1"></label>
+					<input asp-for="Product.Name" class="form-control" />
+					<span asp-validation-for="Product.Name" class="text-danger"></span>
+				</div>
+				<div class="mb-3 row p-1">
+					<label asp-for="Product.Description" class="pb-1"></label>
+					<input asp-for="Product.Description" class="form-control" />
+					<span asp-validation-for="Product.Description" class="text-danger"></span>
+				</div>
+				<div class="mb-3 row p-1">
+					<label asp-for="Product.Price" class="pb-1"></label>
+					<input asp-for="Product.Price" class="form-control" />
+					<span asp-validation-for="Product.Price" class="text-danger"></span>
+				</div>
+				<div class="mb-3 row p-1">
+					<label asp-for="Product.Company" class="pb-1"></label>
+					<input asp-for="Product.Company" class="form-control" />
+					<span asp-validation-for="Product.Company" class="text-danger"></span>
+				</div>
+
+
+
+				<div class="mb-3 row p-1">
+					<label asp-for="Product.Category" class="pb-1"></label>
+					<select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select border">
+						<option disabled selected>--select category--</option>
+					</select>
+					<span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+				</div>
+				<div class="mb-3 row p-1">
+					<label asp-for="Product.ImageUrl" class="pb-1"></label>
+					<input type="file" name="file" class="form-control" />
+				</div>
+
+				<div class="row">
+					@if (Model.Product.Id != 0)
+					{
+						<div class="col-6 col-md-3"><button type="submit" class="btn btn-outline-primary form-control">Update</button></div>
+					}
+					else
+					{
+						<div class="col-6 col-md-3"><button type="submit" class="btn btn-outline-primary form-control">Create</button></div>
+					}
+					
+
+					<div class="col-6 col-md-3"><a asp-controller="Product" asp-action="Index" class="btn btn-outline-secondary form-control">Go Back</a></div>
+
+				</div>
+			</div>
+		</div>
+
+	<div class="col-5" style="border:dashed">
+		<img src="@Model.Product.ImageUrl" width="100%"/>
+	</div>
+
+	
+</form>
+
+@section Scripts {
+
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}
