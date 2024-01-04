@@ -1,3 +1,5 @@
+This is a self learning project. Project is yet to be published. After publishing all the features will be documented.
+
 Project snap :
 
 ![Screenshot 2024-01-05 004334](https://github.com/rifatiyaan/ArtisanTech/assets/63875590/a3912634-bb7c-44da-be72-cd2d573782d6)
