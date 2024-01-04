@@ -17,3 +17,4 @@ E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.DataAccess\obj\Debug\net8.0\refint
 E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.DataAccess\obj\Debug\net8.0\ArtisanTech.DataAccess.pdb
 E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.DataAccess\obj\Debug\net8.0\ArtisanTech.DataAccess.genruntimeconfig.cache
 E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.DataAccess\obj\Debug\net8.0\ref\ArtisanTech.DataAccess.dll
+E:\DOTNET ALL\Youtube\ArtisanTech\ArtisanTech.DataAccess\obj\Debug\net8.0\ArtisanTech.DataAccess.sourcelink.json

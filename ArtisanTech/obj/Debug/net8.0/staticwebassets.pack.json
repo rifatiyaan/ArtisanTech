@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\images\\product\\4259460a-781b-478d-8756-a313f469587f.jpeg"
     },
     {
+      "Id": "E:\\DOTNET ALL\\Youtube\\ArtisanTech\\ArtisanTech\\wwwroot\\images\\product\\8f319fbc-17dc-4086-891c-a88d9262912a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8f319fbc-17dc-4086-891c-a88d9262912a.jpg"
+    },
+    {
       "Id": "E:\\DOTNET ALL\\Youtube\\ArtisanTech\\ArtisanTech\\wwwroot\\images\\product\\a69ecd0c-4196-4db4-a1c4-ca2ab45bca95.jpg",
       "PackagePath": "staticwebassets\\images\\product\\a69ecd0c-4196-4db4-a1c4-ca2ab45bca95.jpg"
     },
@@ -49,8 +53,16 @@
       "PackagePath": "staticwebassets\\images\\product\\da8e618d-2885-4cb1-9da2-64c34fcfa76f.jpg"
     },
     {
+      "Id": "E:\\DOTNET ALL\\Youtube\\ArtisanTech\\ArtisanTech\\wwwroot\\images\\product\\ee586d73-02de-4df5-9a3d-a8b02baa1424.webp",
+      "PackagePath": "staticwebassets\\images\\product\\ee586d73-02de-4df5-9a3d-a8b02baa1424.webp"
+    },
+    {
       "Id": "E:\\DOTNET ALL\\Youtube\\ArtisanTech\\ArtisanTech\\wwwroot\\images\\product\\fbf42690-54f7-4204-9a9c-97b1fdd8072e.jpg",
       "PackagePath": "staticwebassets\\images\\product\\fbf42690-54f7-4204-9a9c-97b1fdd8072e.jpg"
+    },
+    {
+      "Id": "E:\\DOTNET ALL\\Youtube\\ArtisanTech\\ArtisanTech\\wwwroot\\images\\product\\ffc6eb4c-e33a-4911-a30f-84985a8883ad.png",
+      "PackagePath": "staticwebassets\\images\\product\\ffc6eb4c-e33a-4911-a30f-84985a8883ad.png"
     },
     {
       "Id": "E:\\DOTNET ALL\\Youtube\\ArtisanTech\\ArtisanTech\\wwwroot\\js\\product.js",

@@ -1,9 +1,20 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-    Layout = "_Layout";
-}
+﻿@model IEnumerable<Product>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row pb-3">
+	@foreach(var p in Model)
+	{
+		<div class="card m-2" style="width:18rem;">
+			<div class="d-flex flex-column">
+			<div class="row mb-2" style="height:13rem">
+			<img src=@p.ImageUrl>
+			</div>
+			<div class="card-body border-2 col-sm" style="height:12rem">
+				<h5 class="card-title">@p.Name</h5>
+				<p class="card-text">@p.Price</p>
+				<a asp-action="Details" asp-route-id="@p.Id" class="btn btn-primary">See details</a>
+				
+			</div>
+			</div>
+		</div>
+	}
 </div>
